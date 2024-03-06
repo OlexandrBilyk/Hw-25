@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+.block{
+    position: relative;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 50px;
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    top: 160px;
+    left: 100px;
+}
+.box2{
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+    position: relative;
+    top: 120px;
+    left: 60px;
+}
